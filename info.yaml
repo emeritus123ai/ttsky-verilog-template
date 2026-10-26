@@ -1,6 +1,8 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      # Project title
+title: "GUARDIAN FSM Protection Core"
+author: "emeritus123ai"
+description: "Four-state digital FSM with fault detection and protection latch"
   author:       ""      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does

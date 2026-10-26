@@ -158,4 +158,3 @@ module guardian_fsm (    // Remember to confirm every name used with the team an
     
 endmodule
 
-i wan tot get this layout as sson as posiible with out downloading anything also as cheap as possible like chip design for it
